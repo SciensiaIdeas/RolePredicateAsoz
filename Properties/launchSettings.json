@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RolePredicateAsoz": {
+      "commandName": "Project",
+      "commandLineArgs": "\"(ДУ-2 | ~ДУ-46) & АСУ СТ\""
+    }
+  }
+}
